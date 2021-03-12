@@ -31,6 +31,7 @@ function AddContacts(props) {
       alert('all fields are mandatory');
       return;
     }
+    // eslint-disable-next-line react/prop-types
     props.addContactHandler(content);
     console.log(content);
     setContent({
