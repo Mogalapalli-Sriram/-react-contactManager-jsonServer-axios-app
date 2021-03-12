@@ -15,7 +15,7 @@ This application is about making CRUD operations on the contact details.
 ## Setup
 1.  Clone the repository.
 ``` bash
-git clone https://github.com/Mogalapalli-Sriram/react-contactManager-axios-jsonServer-app.git --branch master --single-branch contactManager-react
+git clone https://github.com/Mogalapalli-Sriram/react-contacthandler-jsonserver-axios-app.git contactManager-react
 ```
 
 2. Change over to the contactManager-react directory.
