@@ -50,6 +50,19 @@ npm start
  
  <br>
 
+ ## Screenshots of React application and json-server 
+
+  * Contacts list of react application.
+   ![contactlists](images/contactlists.PNG)
+  * Add contacts route of react application.
+   ![addcontacts](images/addcontacts.PNG)
+  * Update contacts of react application.
+   ![updatecontacts](images/updatecontacts.PNG)
+  * Home page of json-server
+   ![jsonserverbase](images/jsonserverbase.PNG)
+  * Contacts resource of json-server
+   ![jsonservercontacts](images/jsonservercontacts.PNG)
+
  ## Things I have learnt while doing this application
 *  **react-router-dom**, a special npm package used for providing specific routers to various components in the react application.
 * **useEffect**, a type of react hook for persisting the data and retrieving the data inside the local storage.
